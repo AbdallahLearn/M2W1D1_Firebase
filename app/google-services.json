@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895958716368",
+    "project_id": "leadurmoney-c1f9c",
+    "storage_bucket": "leadurmoney-c1f9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895958716368:android:7314cc2e6bd570f5d4b3d5",
+        "android_client_info": {
+          "package_name": "com.example.m2d1_firebase_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChtxHTAwhs_BNYC0cZ_uJtBvFXmpjY0eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
